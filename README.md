@@ -1,4 +1,4 @@
 - 👋 Hi, I’m arka
-- 👀 I’m interested in web development
-- I am 13 years old
+- 🌱 I’m interested in web development
+- 👀 I am 13 years old
 - 🌱 I study in class VIII
